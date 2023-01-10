@@ -1,6 +1,6 @@
 
 /**
- * 文本可以做一些适当调整。
+ * The text can be adjusted appropriately.
  */
 
 .md {
@@ -25,7 +25,7 @@
 
 
 /**
- * 还差最后一点就结束了。
+ * It's just about the last bit to finish.
  */
 
 pre:hover{
@@ -33,10 +33,9 @@ pre:hover{
 }
 
 /**
- * 希望你能喜欢，这个创意是参考国外一个牛人的，
- * 然后看到滴滴某大神用Vue重构了一下，
- * 我觉得很有趣，也用React+Hooks+TS重构了一下。
- * 如果您觉得我还不错，可以与我联系~，ღ( ´･ᴗ･` )比心
+ * Wish you like it ，this idea was inspired by a foreign genius，
+ * "I found the idea very interesting, and also used React, Hooks, and TypeScript to refactor it
+ * If think it not bad，can contact with me~，ღ( ´･ᴗ･` )
  */
 
 

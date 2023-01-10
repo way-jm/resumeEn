@@ -1,72 +1,58 @@
 
-基本资料
+Base Information
 =========
 
-* 姓名：卫正明 。
+* Name：Wei Zhengming 。
 * Email： 1904628089@qq.com 。
 * GitHub：https://github.com/way-jm 。
 * PHONE: 18221924339
 * BD： 1992.06.27
 
-个人概况
+Personal information
 -------
 
-* 规规矩矩的前端儿，不靠谱的Noder & Pythoner ，深度学习爱好者。
-* 喜欢助人为乐的开源开发者(xr-storage，Want，wayswipe) 。
-* 丰富的前端工作经验和一些后端(Base PHP & Node)开发经验。
-* 熟悉Vue，React等MVVM框架，包括Vuex，Redux，Hooks，基于Umi和ant design的开发经验。
-* 丰富的TypeScript使用经验，Node,Koa2后端开发经验
-* Serverless,AWS Lambda 使用经验
-* 自构微前端框架，以及开源微前端框架qiankun，wujie的使用和改造老项目经验
-* 卓越的CSS能力，熟悉sass，less，stylus。
-* webVR 开发经验。
-* 原生微信小程序 & 小程序云开发 & 小程序云托管
-* 熟悉webpack配置，了解各种loader，plugin的使用和自定义。
-* 很强的学习能力。
-* 国际日本语能力测试一级（最高级别）。
+* A well-behaved front-end developer, unreliable Noder & Pythoner, and deep learning enthusiast.
+* A helpful open-source developer (xr-storage, Want, wayswipe).
+* Rich front-end work experience and some back-end (Base PHP & Node) development experience.
+* Familiar with MVVM frameworks such as Vue and React, including experience with Vuex, Redux, Hooks, and development based on Umi and ant design.
+* Rich experience using TypeScript, Node, and Koa2 for back-end development.
+* Experience with Serverless and AWS Lambda.
+* Experience constructing a micro front-end framework and using and modifying open-source micro front-end frameworks qiankun and wujie for old projects.
+* Excellent CSS skills, familiar with sass, less, stylus.
+* WebVR development experience.
+* Native WeChat mini program & mini program cloud development & mini program cloud hosting
+* Familiar with webpack configuration and various loaders and plugins.
+* Strong learning ability.
+* N1 Level in the Japanese Language Proficiency Test.
 
 
-教育背景
+Education
 -------
-* 2010.9-2014.6  本科：中南林业科技大学
-* 2014.9 。。。。没有更高学历了，我一直认为我是南大未过门的学生。
+* 2010.9-2014.6 Central South University of Forestry and Technology
 
-工作经历
+Experience
 ------
-* 2022.4 -至今  HLI中国区(Human longevity Inc)
-   -AI 医疗平台Physician Terminal(US Site和CN Site同码异构)的前端主导开发
-   -用户端React-native 的开发
-   -BFF Node Serverless 的维护和升级
-   -主持企业级业务组件库的创建和维护
-   -前端架构的优化，拆分和升级工作
-   -和美国前端团队协同开发，共同维护合保障多个项目的迭代运行
-* 2021.8~2022.4  小米南京研发中心前端
-   -前端组件库
-   -项目构架代码的升级优化
-   -交付多个有品电商商家端的业务前端项目。
-   （随着22年4月南京研发中心撤销，被裁员）
+* 2022.4 -Now Human longevity Inc
+   -Responsible for the development and maintenance of the AI medical platform Terminal, as well as the upgrading and microfrontend migration.
+   -Involved in the development and maintenance of new features for the client app.
+   -Involved in the development and maintenance of the Node BFF (AWS Lambda) middleware.
+   -Some management job for Frontend team.
+   -Cooperate development with US team.
+* 2021.8~2022.4  XIAOMI Corporation Nanjing R&D Center
+   -Responsible for the development and maintenance of the YOUPIN e-commerce component library- Dalaran UI.
+   -Involved in the business development of the YOUPIN e-commerce platform and merchant workstation
+   -Upgrade the front-end project scaffold.
 
-* 2019.5—2021.7  安徽阡陌网络科技（芜湖） 前端工程师
-  -参与多个GIS项目的前端部分，包括湖南农业保险，芜湖水清岸绿项目，参与PC端展示页面，后台管理页面，移动端，和客户端混合开发等等。
+* 2019.5—2021.7  AnHui QIANMO Network Tech Co., Ltd
+  -Development of the display system and back-end system for the Anhui environment protect project, including video surveillance, map integration, and big data visualization.
+  -Web GIS development.
+  -Development and application of video surveillance streaming media and WebRTC
+  -Technical Stack：React、Redux、Umi、Typescript，Antd etc.
 
-  -通用脚手架，鉴于项目中很多同质化的模块可以共用，基于"约定生配置，配置生万物"的原则，基于React+Redux+redux-thunk+Hooks+ant design+TypeScript搭建了
-  公司项目后台管理的通用脚手架Want(way&ant),大大减轻了前端开发模块的工作量，定义了开发流程和规范，为更高程度敏捷开发提供可能。脚手架也开源了（https://github.com/way-jm/want），并且
-  上传到了Ant design官方脚手架市场(https://scaffold.ant.design/#/scaffolds/want)。
+* 2016.8-2019.5 Shanghai Houbu network tech Co., Ltd
+  -Development of the H5 portion of the 'Lai Zhuan' Hybird App and PC development of the management.
+  -Lead the upgrading and transformation of the company's original project from JQuery to Vue2.
+  -Development of server-side with PHP .
 
-  -xr-storage开源库的开发。根据业务中经常使用的对于storage的操作，使用Typescript开发了xr-storage库，使用原生Typescript开发，天然支持TS，不依赖于任何
-  第三方模块。更加便利，开箱即用（https://way-jm.github.io/xr-storage/start/start.html）。几乎在公司的全系列产品中都有使用。
+* 2014.6-2016.8 FUCHIMOTO Heavy Industry Co., Ltd Japanese translation work for internal company。
 
-  -研究深度学习在公司遥感项目上的落地，最终没有研究成功，但是对于普适性的人脸识别和物体分类有阶段性成果。
-
-* 2016.8-2019.5 上海厚步网络科技有限公司 前端工程师
-  -参与公司积分墙项目，金融产品项目的前端工作，已经部分PHP开发工作。这期间主要是使用Vue周边技术。
-  -完成公司前端框架从jquery到MVVM的跨域。
-
-  -开源组件库 wayswipe的开发,参考(https://github.com/way-jm/wayswipe);
-
-  -参与了一些PHP的社区工作，如参与PHP开源框架Laravel的翻译工作,参考(https://learnku.com/users/22754/translations)
-
-* 2014.6-2016.8 日本渊本重工上海工厂  技术顾问助理&日语翻译
-
-* 2020.9 -2021.1 香港梦猷科技签约翻译
-* 2020.10~ 日本CCLesson在线中文讲习老师(公益)

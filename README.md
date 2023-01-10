@@ -1,7 +1,7 @@
  ### Introduce myself
  
   
- * 这个创意是参考国外一个牛人的，
- * 我觉得很有趣，也用React+Hooks+TS重构了一下。
- * 我放到[gitHub](https://github.com/way-jm/resume)上咯
- * 如果你觉得我还不错，给Star哦！
+ * This idea was inspired by a foreign genius.
+ * I found the idea very interesting, and also used React, Hooks, and TypeScript to refactor it.
+ * Placed it in [gitHub](https://github.com/way-jm/resume)
+ * If you think I'm good, please give me a star.

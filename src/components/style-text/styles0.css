@@ -1,14 +1,14 @@
 /**
  *
- * 你好啊, 我是卫正明（Way）。
+ * Hi, I'm Way。
  *
- * 我喜欢捣鼓一些有趣的玩意儿。
+ * I like to tinker with interesting things.
  *
- * 要不来一场直播写代码？
+ * Living Coding？
  */
 
 /**
- * 那么开始吧，首先让一切都动起来~
+ * let's get started. First, let's get everything moving~
  */
 
 * {
@@ -16,9 +16,9 @@
 }
 
 /**
- * 这看似没用呀，别急，一会儿你就会看到效果了。
+ * It seems like you are saying that something may seem useless at first, but not to worry because the effect will be seen soon.
  *
- * 黑白配色太无聊了，让我来做一些变化。
+ * Black and white color scheme is too boring and I want to make some changes.
  */
 
 html {
@@ -26,7 +26,7 @@ html {
 }
 
 /***
- * 等等。
+ * Wait...
  */
 
 pre, a {
@@ -36,11 +36,11 @@ pre, a {
 }
 
 /**
- * 看上去好多了。但是有点刺眼了。
+ * It looks much better now, but it's a bit too bright and flashy.
  *
- * 而且在整个屏幕上写代码有点浪费空间了。
+ * In addition, using the entire screen to write code is a bit wasteful in terms of space
  *
- * 不要着急哦，让我来做一些优化。
+ * Don't worry, let me do some optimization.
  */
 
 pre:not(:empty) {
@@ -59,7 +59,7 @@ pre:not(:empty) {
 }
 
 /**
- * 接下来我们在把它移到屏幕右侧。
+ * Next, we'll move it to the right side of the screen.
  */
 
 #style-text {
@@ -68,9 +68,9 @@ pre:not(:empty) {
 }
 
 /**
- * 看上去还不错喔, 但是所有的字体颜色是白色的！
+ * It looks good, but all the font colors are white!
  *
- * 那么，我们来把代码变的更加可读吧~
+ * So, let's make the code more readable~
  */
 
 .comment       { color: #857F6B; font-style: italic; }
@@ -81,9 +81,9 @@ pre:not(:empty) {
 .value.px      { color: #F92772; }
 
 /**
- * 现在我们有了一些进展。
+ * Now we have made some progress.
  *
- * 再把它变得更立体&饱满一些。
+ * Let's make it more three-dimensional and full.
  */
 
 body {
@@ -97,9 +97,9 @@ body {
 }
 
 /**
- * 好吧差不多了，接下来就聊聊我自己吧。
+ * Okay, that's about it. Next, let's talk about myself。
  *
- * 我相信你应该不是来看我炫技的吧？
+ * I believe you probably didn't come here to see my flashy skills？
  */
 
 pre:not(#style-text) {
